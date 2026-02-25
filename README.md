@@ -16,7 +16,7 @@ Due to copyright and licensing restrictions of the original authors, we do not d
 - **Twitter15 & Twitter16:** Please request/download from the original repository: [Rumor_RvNN](https://github.com/majingCUHK/Rumor_RvNN) or refer to Ma et al. (2017).
 - **Weibo:** Available from the official repository: [Weibo Dataset](https://github.com/majingCUHK/Rumor_RvNN).
 
-*(Note: If you have obtained the original datasets, you can use the LLM-augmented logic prompts described in our paper to generate the $E_{logic}$ features.)*
+*(Note: If you have obtained the original datasets, you can use the LLM-augmented logic prompts described in our paper to generate the *E*<sub>logic</sub> features.)*
 
 ## 🚀 Model & Code
 The source code for the LoRAD framework (Logic Augmentation, Disentangled Attention, and Adversarial Training via FGM) will be fully released here upon the acceptance of the paper.
