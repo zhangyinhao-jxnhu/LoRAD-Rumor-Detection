@@ -23,3 +23,17 @@ The source code for the LoRAD framework (Logic Augmentation, Disentangled Attent
 
 ## 📝 License
 This project and the Twitter26-Mini dataset are licensed under the [MIT License](LICENSE). The use of Twitter15, Twitter16, and Weibo datasets is subject to their respective original academic licenses.
+
+## 🔗 Citation
+If you find our dataset or work useful, please consider citing our paper:
+```bibtex
+@article{zhang2026lorad,
+  title={LoRAD: Logic-Reasoning Augmented DeBERTa with Adversarial Training for Robust Rumor Detection},
+  author={Zhang, Yinhao and Muchtar, Farkhana and Mohd Sidik, Mohd Kufaisal and Mohamad Sharif, Johan},
+  journal={Electronics},
+  volume={15},
+  number={5},
+  pages={1021},
+  year={2026},
+  publisher={MDPI}
+}
